@@ -1,3 +1,5 @@
 # strokePrediction
 Machine learning
--KNN algorithms
+- KNN algorithms
+- Decision Tree
+- Naive Bayes
